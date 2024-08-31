@@ -1,0 +1,17 @@
+- ((662a9a02-d32c-45da-a7a3-075328492a17))
+- ## Presents with
+	- Slight PV bleeding browning/red usually painless (there may be mild back pain following hemorrhage)
+- ## O/E
+	- Soft uterus that corresponds to the gestational age
+	- bleeding from external os
+	- Closed cervix
+- ## Differential Diagnosis
+	- Cervical Polyp
+- ## Investigations
+	- Routine (Haemogram, urine routine)
+	- Ultrasound
+- ## Treatment
+	- Rest
+	- Analgesics
+	- Avoid strenuous activities, sexual intercourse
+	- Clinically : natural progesterone (still debatable)

@@ -1,0 +1,81 @@
+- ((662aa4be-7b2f-48b0-b680-dc429723c5b7))
+- Mode of Infection
+	- Anaerobic
+		- Streptococci
+		- Clostridium
+		- Tetanus
+	- Aerobic
+		- E coli
+		- Kleibshiella
+		- Staphylo
+- Pathology
+	- ((662c21b4-9bc3-4580-8e7b-b558481f96ba))
+	- ((662c21d1-5f96-43eb-8610-a7e8e1bcfb57))
+	- ((662c2225-0541-4cfd-9980-b1d5aef202a1))
+- Grading
+	- Grade 1
+		- Infection is localised in uterus
+	- Grade 2
+		- Infection spreads beyond uterus to parametrium, tubes, ovaries or pelvic peritoneum
+	- Grade 3
+		- Generalised peritonitis, endotoxic shock, ARF, jaundice
+- Clinical Features
+	- ((662c2279-bf98-4892-b860-2b41e5c7143e))
+- Investigation
+	- Routine
+		- logseq.order-list-type:: number
+		  1. High vaginal swab, culture, sensitivity
+		- Blood for Hb
+		  logseq.order-list-type:: number
+		- Urine analysis, culture
+		  logseq.order-list-type:: number
+	- Special
+		- USG to detect POC
+		- Blood for culture, electrolyte, CRP
+		- Plain X-Ray : Pulmonary complications
+- Complications
+	- Immediate
+		- Hemorrhage
+		- Shock
+		- Injury
+		- Generalized peritonitis
+		- Endotoxic shock
+		- Acute Renal Failure
+		- Thrombophlebitis
+	- Remote
+		- chronic debility
+		- chronic pelvic pain and backache
+		- dysparenia
+		- ectopic pregnancy
+		- emotional depression
+- Management
+	- Investigations
+		- Haemogram
+		- Blood grouping and cross match
+		- Urine analysis including cross match
+		- Urine analysis including culture
+		- Cervical or high vaginal swab(c/s)
+		- USG
+		- Blood culture
+		- Serum electrolytes
+		- Coagulation profile
+- Treatment
+	- General Management
+		- Hospitalize
+		- High vaginal swab
+		- vaginal examination
+		- overall accessment accessment case and investigation protocol
+	- Drug
+		- Grade I
+			- IV antibiotics
+			- Anti gas gangrene serum
+			- Analgesic
+			- Sedative
+		- Grade II
+			- Antimicrobial therapy
+				- pyparacilin with tazobactam
+				- carbapemen, vancomycin, clindamycin, zentamycin
+				- co-amoxiclab (amoxicillin + clavulonic acid)
+				- metronidazole
+			- Surgery
+				- Posterior culpotomy if infection is localized in puch of douglas or pelvic abscess

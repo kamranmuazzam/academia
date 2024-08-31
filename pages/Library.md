@@ -1,5 +1,7 @@
-- [[Medicine]]
-	- [[Davidson's Principles and Practice of Medicine]]
-- [[Embryology]]
-	- [[The Developing Human Clinically Oriented Embryology]]
-- Surgery
+- Clinical
+	- [[Medicine]]
+		- [[Davidson's Principles and Practice of Medicine]]
+	- [[Surgery]]
+- Pre-Clinical
+	- [[Embryology]]
+		- [[The Developing Human Clinically Oriented Embryology]]

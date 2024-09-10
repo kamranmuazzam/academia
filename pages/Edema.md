@@ -84,3 +84,11 @@ alias:: Oedema
 		  logseq.order-list-type:: number
 		- Congenital Absence/Abnormality
 		  logseq.order-list-type:: number
+- Etiology
+	- Local Cause
+		- Venous Obstruction
+		- Lymphatic Obstruction
+	- Systemic Cause
+		- Cardiac Cauce
+		- Renal Cause
+		- Hepatic Cause

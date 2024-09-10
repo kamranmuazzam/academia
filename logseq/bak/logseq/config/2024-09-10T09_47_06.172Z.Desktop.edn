@@ -423,5 +423,4 @@
  :journal/page-title-format "dd-MM-yyyy"
  :publishing/all-pages-public? true
  :graph/settings {:builtin-pages? false
- :excluded-pages? false
- :orphan-pages? false}}
+ :excluded-pages? false}}

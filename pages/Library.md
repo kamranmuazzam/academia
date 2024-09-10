@@ -1,6 +1,10 @@
 - Clinical
 	- [[Medicine]]
 		- [[Davidson's Principles and Practice of Medicine]]
+		- [[Symptom to Diagnosis An Evidence Based Guide]]
+		- [[Kumar & Clark's Clinical Medicine]]
+		- [[Signs and Symptoms - Analysis from a Functional Perspective]]
+		- [[Differential Diagnosis of Common Complaints]]
 	- [[Surgery]]
 		- [[General Surgery]]
 			-

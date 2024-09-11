@@ -1,0 +1,2 @@
+file:: [Signs_and_Symptoms_-_Analysis_from_a_Functional_Perspective_1725966853864_0.pdf](../assets/Signs_and_Symptoms_-_Analysis_from_a_Functional_Perspective_1725966853864_0.pdf)
+file-path:: ../assets/Signs_and_Symptoms_-_Analysis_from_a_Functional_Perspective_1725966853864_0.pdf

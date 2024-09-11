@@ -40,7 +40,7 @@ alias:: Oedema
 		  logseq.order-list-type:: number
 			- This might seem counterintuitive, but the arteriole diameter is widely dilated if arterial resistance is decreased(the mean arterial pressure is decreased) which in turn creates more pressure while passing from an overly dilated arteriole to narrow capillaries
 			  logseq.order-list-type:: number
-	- Decreased Osmotic Pressure ( ↓ plasma proteins)
+	- Decreased oncotic Pressure ( ↓ plasma proteins)
 	  logseq.order-list-type:: number
 		- Loss of Protein in urine
 		  logseq.order-list-type:: number
@@ -58,6 +58,8 @@ alias:: Oedema
 			  logseq.order-list-type:: number
 			- B12 deficiency
 			  logseq.order-list-type:: number
+		- Increased Interstitial Oncotic Pressure (myexedema)
+		  logseq.order-list-type:: number
 	- Increased Capillary Permeability
 	  logseq.order-list-type:: number
 		- Immune Reaction that release histamine
@@ -84,11 +86,8 @@ alias:: Oedema
 		  logseq.order-list-type:: number
 		- Congenital Absence/Abnormality
 		  logseq.order-list-type:: number
-- Etiology
-	- Local Cause
-		- Venous Obstruction
-		- Lymphatic Obstruction
-	- Systemic Cause
-		- Cardiac Cauce
-		- Renal Cause
-		- Hepatic Cause
+- Differentials of Edema ((66e16d22-da36-4d88-8695-5a56e4f8dedd))
+	- Chronic Kidney Disease that doesn't cause edema : Polycystic Kidney Disease
+	- Chronic Heart Disease that doesn't cause edema : Stable ischemic heart disease
+- Chart of ((66e1764a-6e38-4bd6-bc5b-323fd98ee0ea))
+	-

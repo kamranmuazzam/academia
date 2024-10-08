@@ -1,0 +1,16 @@
+- $$z = \cos\theta + i\sin\theta$$
+- $$\frac{dz}{d\theta} = -\sin\theta + i\cos\theta$$
+-
+- $$\frac {dz}{d\theta} = i\cos\theta + i^2 \sin \theta$$
+- $$\frac {dz}{d\theta} = i (\cos\theta + i\sin\theta)$$
+- $$\frac {dz}{d\theta} = iz$$
+- $$\frac {1} {z} \space dz = i \space d\theta$$
+- $$\ln(z) = i \theta + c$$
+- if, $\theta = 0$, then,  $z = \cos\theta + i\sin\theta = 1$
+	- $\ln(1) = i \cdot 0 + c$
+	- $\therefore c = 0$
+	-
+-
+- $$\ln(z) = i \theta$$
+- $$z = e^{i\theta} $$
+- $$e^{i\theta} = \cos\theta + i\sin\theta$$

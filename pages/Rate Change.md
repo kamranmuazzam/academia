@@ -1,0 +1,11 @@
+- $x$ is the amount of substance
+- $$R \propto x$$
+- $$R = k \cdot x$$
+- $$\frac {dx} {dt} = k \cdot x$$
+- $$\frac {1} {x} dx = k \cdot dt$$
+- in time t, that is from time 0 to time t, the concentration changes from $x_0$ to $x$
+- $$\int_{x_0}^{x} \frac {1} {x} dx = \int_0^t k \cdot dt$$
+- $$\ln(x)-\ln(x_0) = k \cdot t$$
+- $$\ln(\frac {x} {x_0} ) = k \cdot t$$
+- $$\frac {x} {x_0} = e^{k \cdot t}$$
+- $$x = x_0 \cdot e^{k \cdot t}$$

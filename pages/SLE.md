@@ -23,7 +23,7 @@ ICD-11_Code::
 - ## Clinical Features
 	- ### Signs and Symptoms
 		- #### Symptoms
-			- [[Seizures]] and [[Fever]] } in **children**
+			- LATER [[Seizures]] and [[Fever]] } in **children**
 			- [[Raynaud's Phenomenon]] and [[Pleuritis]] } **twice** as common in **adults**
 		- #### Signs
 			- [[Malar Rash]]
@@ -37,7 +37,7 @@ ICD-11_Code::
 	- ### Diagnostic Criteria
 - ## Diagnosis
 	- ### Clinical Diagnosis
-		- Classical Triad of [[Fever]], [[Join Pain]], [[Rash]] in a woman of child bearing age
+		- LATER Classical Triad of [[Fever]], [[Join Pain]], [[Rash]] in a woman of child bearing age
 		- **Constitutional** (eg, fatigue, fever, arthralgia, weight changes)
 		- **Musculoskeletal** (eg, arthralgia, arthropathy, myalgia, frank arthritis, avascular necrosis)
 		- **Dermatologic** (eg, malar rash, photosensitivity, discoid lupus)

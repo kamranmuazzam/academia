@@ -34,7 +34,7 @@ alias:: Enteric Fever
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- Classical Symptoms
-				- [[Fever]]
+				- LATER [[Fever]]
 				- [[Malaise]]
 				- [[Diffuse Abdominal Pain]]
 				- [[Constipation]]

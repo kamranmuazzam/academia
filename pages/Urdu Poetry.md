@@ -13,4 +13,3 @@
 	  **Tujhe itna chahta kyun hoon**
 	  **Yeh sawaal har pal tumhare labon se jawab chahta hai**
 	  **dil hi dil me jo khat likhe maine wo aab hay kahan gaye **
-	-

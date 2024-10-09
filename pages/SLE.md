@@ -23,7 +23,7 @@ ICD-11_Code::
 - ## Clinical Features
 	- ### Signs and Symptoms
 		- #### Symptoms
-			- LATER [[Seizures]] and [[Fever]] } in **children**
+			- LATER [[Seizures]] and [[Fever]]  in **children**
 			- [[Raynaud's Phenomenon]] and [[Pleuritis]] } **twice** as common in **adults**
 		- #### Signs
 			- [[Malar Rash]]

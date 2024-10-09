@@ -1,5 +1,7 @@
-- alias::
-  ICD-11_Code::
+definition:: `Glaucoma is degenerative optic neuropathy often associated with increased intraocular pressure.`
+alias::
+ICD-11_Code::
+
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

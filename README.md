@@ -8,7 +8,7 @@ Author: Kamran Muazzam
   This repository contains comprehensive medical school notes authored by Kamran Muazzam. These notes cover a wide range of topics crucial for medical education and are intended for academic purposes.
 - ## License
   
-  The notes are distributed under a custom license. Please refer to the [LICENSE](LICENSE) file for the full terms and conditions.
+  The notes are distributed under a license from Kamran Muazzam. Please refer to the [LICENSE](LICENSE) file for the full terms and conditions.
 - ## Usage
   
   Individuals are permitted to use, modify, and distribute these notes under the conditions outlined in the LICENSE file. The notes are provided "as is," without any warranties or guarantees regarding their accuracy, completeness, or suitability for any specific purpose.

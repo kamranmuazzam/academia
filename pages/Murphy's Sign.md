@@ -1,0 +1,16 @@
+- Procedure
+	- Patient Positioning : Usually lying in supine position
+	- Four of digits of left hand are placed parallel to the lower ribs, while the thumb is pressed on the the intersection of midclavicular line and transplyloric plane
+	- Patient is asked to take a deep breath
+- Murphy's Sign is positive if the patient experiences pain and abruptly stops inhaling due to tenderness (catch hold breathing)
+- Positive Interpretation
+	- [[Acute cholecystitis]]
+- False Positives
+	- Acute Hepatitis
+	- Liver abscess
+	- Perihepatic abscess
+	- Perforated peptic ulcer
+	- Pancreatitis (rare)
+- Sensitivity & Specificity
+	- Sensitivity : 60-97%
+	- Specificity : 80-95%

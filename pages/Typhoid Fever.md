@@ -1,4 +1,4 @@
-alias:: Enteric Fever
+alias:: Enteric Fever, Typhoid
 
 - ICD-11 Code:
 - ## Etiology

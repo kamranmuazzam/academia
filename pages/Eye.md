@@ -1,13 +1,1 @@
-- Drainage of Aqueous Humor
-	- Ciliary Processes
-	- Aqueous Humor in posterior chamber (through pupil)
-	- Anterior Chamber
-		- Conventional Outflow (75%)
-			- [[Trabecular Meshwork of Eyeball]]
-			- Schlem's canal
-			- Collector channels
-			- Epischeral veins
-		- Uncoventional Outflow (25%)
-			- Ciliary Body
-			- Suprachoroidal Space
-			- Venous Circulation of ciliary body, sclera and orbit
+- [[Aqueous Humor]]

@@ -1,0 +1,38 @@
+alias:: Acute Congestive Glaucoma, ACG
+
+- Risk Factors
+	- more common in middle aged
+	- women
+	- asian
+	- Hypermetropia
+	- fellow eye having ACG
+- Pathophhysiology
+	- apposition of pupillary margin against lens surface in mild dilated pupil
+	- [[Aqueous Humor]] cannot flow from PC to AC
+	- Iris Bombe
+	- Anterior iris blowing due to increase qcquous pressure in PC
+	- Iridotrabaculocornial contact
+- Symptoms
+	- frontal headache
+	- halos around light
+	- sudden drop of vision
+	- nausea/ vomiting
+- Signs
+	- IOP > 40 mm Hg
+	- On Torchlight - [[Eclipse Sign]]
+	- On slit lamp
+		- congestion
+		- corneal edema - halos
+		- Hazy cornea - blurred vision
+	- Iris Atrophy
+	- Posterior Synechiae : adhesion between pupillary margin and lense in centre
+	- Cataract
+	- Pupil
+		- vercially oval
+		- mild dilated (this is why [[Atropine]] is contraindicated )
+			- fixed
+- Treatment
+	- Drug of choice
+		- [[Pilocarpine]] 1%
+	- Drug of Choice in Acute Case : IV [[Mannitol]]
+	- Treatment of Choice : [[Laser Iridotomy]]

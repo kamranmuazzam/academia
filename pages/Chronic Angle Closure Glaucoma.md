@@ -1,0 +1,9 @@
+- Gradual synechial closure of angle
+- Portion of angle blocked
+- Develops scarring
+- Overtime angle progressively becomes more closed
+- [[IOP]] not very high
+- Fever symtoms - Pain
+- Delayed presentation
+- More damage to the Optic Nerve
+- Diagnosis made when [[Peripheral Vision Loss]] occurs

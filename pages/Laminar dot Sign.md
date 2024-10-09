@@ -1,0 +1,1 @@
+- seen on cup as oval dots by opthalmoscope

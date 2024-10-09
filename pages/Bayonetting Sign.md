@@ -1,0 +1,1 @@
+- If blood vessels bend or kink sharply when they pass over the edge of the cup, then this condition is known as bayoneting

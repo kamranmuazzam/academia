@@ -1,0 +1,25 @@
+- Rare type
+- Abrupt onset
+- Angle for drainage suddenly closes
+- Characterized by
+	- Painful, red eye
+	- Blurred vision with halos
+	- FIrm eye "Rock hard"
+- Symptoms can be triggered when the pupil dilates
+	- low light
+	- certain drugs ([[Atropine]], [[Scopolamine]])
+- Ophthalmologic emergency
+	- if not treated in time can lead to permanent blindness
+- Treatment
+	- Surgical
+		- Eye Surgery
+		- Laser, Peripheral iridatomy
+		- Trabeculectomy
+	- Medical (not very effective, but can be given to patients waiting for surgery)
+		- [[Acetazolamide]]
+		- [[Mannitol]]
+		- [[Timolol]] or [[Betaxolol]]
+		- [[Pilocarpine]]
+		- [[Oral Hyperosmotics]] ([[Glyecerol]])
+- [[Chronic Angle Closure Glaucoma]] , a varient of Closed Angle Glaucoma
+-

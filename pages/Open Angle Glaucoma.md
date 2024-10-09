@@ -1,0 +1,48 @@
+- Chronic and more common
+- Characterized by
+	- Slowly progressve raised [[IOP]]
+	- Open normal appearing anterior chambers angle
+	- Overproduction of fluid or too little drainage
+	- Characteristic optic disc cupping and
+	- Speicific visual field defects ((670679fd-0957-4e98-9774-c0ab0ad988ff))
+	- Chronic Drug Therapy
+- Associations
+	- Age : 5th and 7th decades
+	- Family history
+		- 10% in siblings
+		- 4% in the children
+	- Race : African American
+- Disc cupping
+	- the cup to disk ratio increases
+- Drugs
+	- Parasympathomimetics
+		- [[Pilocarpine]] , [[Carbachol]]
+		- Muscarinic agonist
+		- Contract ciliary muscle
+		- Opens trabecular meshwork
+		- More drainage
+	- Alpha agonists
+		- [[Brimonidine]] , [[Apraclonidine]]
+		- Decrease aqueous production
+		- Blocks ciliary epithelium
+	- Beta-Blockers
+		- [[Timolol]] , [[Betaxolol]], [[Carteolol]]
+		- Decrease aqueous production
+		- Blocks ciliary epithelium
+	- Prostaglandin analogues
+		- [[Latanoprost]], [[Travoprost]], [[Bimatoprost]], [[Tofluprost]]
+		- Increase uveoscleral outflow of aquesous
+	- Carbonic anhydrase inhibitors
+		- Topical CA inhibitors
+			- [[Dorzolamide]], [[Brinzolamide]]
+			- ↓ production of [[Aqueous Humor]]
+		- Oral CA inhibitors
+			- [[Acetazolamide]] and [[Methazolamide]]
+			- less commonly used due to their side effects, however given for short-term
+	- Adrenergic drugs
+		- Epinephrine
+			- Early effect : ↑ [[Aqueous Humor]] (beta effect)
+			  Later Effect : vasoconstrict ciliary body -> ↓ [[Aqueous Humor]] production
+			- Never given in [[Closed Angle Glaucoma]]
+				- Dilates pupil
+				- Worsens angle closure

@@ -1,0 +1,4 @@
+- procedure
+	- beam of light shown from temporal aspect of cornea towards root of nose
+- positive if : semicircular shadow of iris towards the nasal area
+- width of semicircular shadow denotes depth of anterior chamber

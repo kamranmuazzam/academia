@@ -1,6 +1,6 @@
 # Medical School Notes
 
-Version: 0.0.0.1
+Version: 0.0.0.2
 Author: Kamran Muazzam
 © 2024 Kamran Muazzam. All rights reserved.
 - ## Introduction

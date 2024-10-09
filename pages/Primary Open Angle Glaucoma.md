@@ -56,9 +56,9 @@ alias:: Chronic Simple Glaucoma
 				- > decrease aquous secreation as receptor present on ciliary process
 			- alpha-Agonist
 				- Apraclonidine
-					- >reduce [[Aqueous Humor]] secretion + increase trabecullar outflow
+					- >reduce [[Aqueous Humor]] secretion + increase trabecullar outflow ((670674ac-08d3-439f-bd7b-ef31a74ba3c3))
 				- Brimonidine
-					- > reduce [[Aqueous Humor]] secretion + increase uveioscleral outflow
+					- > reduce [[Aqueous Humor]] secretion + increase uveioscleral outflow ((670674b9-54a4-497a-b02b-8b60e09c920a))
 				- Carbonic anhydrase inhibitors
 					- Acetazolamide
 					- Brinzolamide

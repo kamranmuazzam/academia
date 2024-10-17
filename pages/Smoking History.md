@@ -1,0 +1,5 @@
+- Diseases not occurring with positive Smoking History
+	- [[Ulcerative Colitis]]
+		- but, smoking increases the risk of [[Crohn's disease]]
+	- [[Parkinson's Disease]]
+	- [[Endometrial Cancer]]

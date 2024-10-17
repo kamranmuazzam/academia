@@ -16,6 +16,7 @@
 	- [[Epistaxis]]
 	- [[Deviated Nasal Septum]]
 	- [[Sinusitis]]
+	- [[Nasal Polyp]]
 	- Difference between [[Otogonal polyp & Athmoidal Polyp]]
 - ## Oropharynx
 	- [[Tonsillectomy]]

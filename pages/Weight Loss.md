@@ -1,0 +1,78 @@
+- Clinically significant wight loss - Loss of ≥ 5-10% over preceding 6-12 months
+- The probability of uncovering an identifiable cause requiring treatment increases with the quantity and speed of weight loss
+- In the absence of clear, objective lifestyle modifications, it is more prudent to assume a person's "clinically significant" weight loss is unintentional until proven otherwise
+- Many patients cannot provide an accurate estimate of the degree of weight loss, so always confirm the severity of loss with the medical record(if possible)
+- Cachexia
+	- Syndrome of weight loss accompanied by loss of muscle mass, fatigue, generalized weakness, and abnormal labs (e.g. anemia, ↓ albumin, ↑ inflammatory markers)
+	- Chachexia can occur simultaneously with fluid retention (e.g. leg edema, ascites), obscuring the weight loss.
+- Association
+	- Malignancy causes weight loss
+		- Tumor effect directly
+		  logseq.order-list-type:: number
+		- Treatment effect
+		  logseq.order-list-type:: number
+			- Chemotherapy
+			  logseq.order-list-type:: number
+			- Chronic radiation enteritis
+			  logseq.order-list-type:: number
+	- Non-Malignant GI Illness
+		- Malabsorption
+			- Celiac disease
+			- Chronic pancreatitis
+		- IBD
+		- Chronic mesenteric ischemia
+	- Psychiatric
+		- Depression
+		- Eating disorders
+	- Infections
+		- HIV/AIDS
+		- Tuberculosis
+	- Endocrine
+		- Uncontrolled diabtetes
+		- Hyperthyroidism
+		- Chronic adrenal insufficianecy
+	- Neuro
+		- Dementia
+		- Stroke
+		- Parkinson's Disease
+	- Other
+		- Food insecurity
+		- Chronic illness
+			- Heart Failure (Cardiac cachexia)
+			- COPD ("pulmonary cachexia")
+		- Medications
+			- Cholinesterase inhibitors
+			- SGLT2 inhibitors
+			- GLP-1 agaonists
+		- Drugs
+			- Alcohol
+			- Stimulants
+- History
+	- Quantify weight loss (how much and over what duration)
+	- Previous weight fluctuations and trends
+	- Oral intake and appetite
+	- Social considerations
+	- Associated Symptoms
+	- Complete PMH/PSH/psych history
+	- Medical history
+	- Substance use history
+	- HIV and TB risk factors
+	- Thorough review of systems
+	- Vitals
+- Complete physical exam and also
+	- lymph nodes
+	- Mental status/ demential screen
+	- Depression screen
+- Key Labs
+	- CBC
+	- basic metabolic panel
+	- $\ce{Ca^2+}$
+	- albumin
+	- HbA1c
+	- TSH
+	- HIV screen
+- Other Tests
+	- Age appropriate cancer screening
+	- Chest X-ray (or chest CT if significant smoking history)
+	- Consider CT abdomen/pelvis
+	- Consider ESR, CRP, HCV, LFTs, PSA, LDH

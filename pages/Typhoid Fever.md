@@ -1,6 +1,6 @@
 alias:: Enteric Fever, Typhoid
 
-- ICD-11 Code:
+- ICD-11 Code::
 - ## Etiology
   background-color:: blue
 	- ### Causative Agents

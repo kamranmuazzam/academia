@@ -1,4 +1,42 @@
-- [[Pleural Effusion]]
+- Long Cases
+	- Respiratory System
+		- [[Asthma]]
+		- COPD
+		- Pneumonia
+		- Pulmonary TB
+		- [[Pleural Effusion]]
+		- Bronchiectasis
+		- Bronchiogenic Carcinoma
+		- Fibrosis
+	- Cardiovascular System
+		- Heart Failure
+		- Ischemic Heart Disease
+		- Constructive Pericarditis
+	- Renal System
+		- AKI
+		- CKD
+		- AKI on CKD
+	- Alimentary System
+		- Chronic Pancreatitis
+		- PUD
+		- Malabsorption Sydrome
+		- Intestinal TB
+		- IBD
+	- Hepatobilliary System
+		- CLD
+		- Acute Viral Hepatitis
+		- Liver abcess
+	- Hematology
+		- Approach to a patient with anemia
+		- Approach to a patient with lymphadenopahty
+	- Rheumatology
+		- Rheumatoid arthritis
+		- SLE
+	- Neurology
+		- Stroke
+	- Endocrine System
+		- DM
+		- Cushing Syndrome
 - [[SLE]]
 - [[Down Syndrome]]
 - [[Typhoid Fever]]

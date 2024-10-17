@@ -1,0 +1,3 @@
+- The most common cause of bronchiectasis in children is recurrent respiratory infections, particularly those associated with conditions like [[cystic fibrosis]].
+- Lab : Chloride sweat test
+- drug : [[Ivacaftor]]

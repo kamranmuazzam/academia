@@ -34,7 +34,7 @@ alias:: Enteric Fever, Typhoid
 	- ### Signs and Symptoms
 		- #### Symptoms
 			- Classical Symptoms
-				- LATER [[Fever]]
+				- [[Fever]]
 				- [[Malaise]]
 				- [[Diffuse Abdominal Pain]]
 				- [[Constipation]]

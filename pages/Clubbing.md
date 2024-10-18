@@ -68,7 +68,7 @@ definition:: It is the bulbous enlargement of the terminal phalanges due to prol
 		- #### Family History
 			- Hereditary Clubbing can occur in rare cases
 		- #### Personal History
-			- [[Smoking History]] is strong link to lung cance rand other [[Chronic Lung Disease]]
+			- [[Smoking History]] is strong link to lung cancer and other [[Chronic Lung Disease]]
 	- ### Physical Examination
 		- #### Inspection of fingers and toes
 			- **Shape**: Look for "drumstick" appearance of the fingertips.

@@ -2,5 +2,5 @@
 - [[Surgery]]
 - [[Gynaecology & Obsetrics]]
 - [[Disease]]
-- LATER [[Signs & Symptoms]]
+- [[Signs & Symptoms]]
 -
